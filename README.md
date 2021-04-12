@@ -6,4 +6,4 @@
 
 
 
-Made by [LeTamanoir](https://github.com/LeTamanoir "LeTamanoir")
+Made by [LeTamanoir](https://github.com/LeTamanoir "LeTamanoir") and [me](https://github.com/Arvialo "Arvialo")
