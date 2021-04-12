@@ -1,9 +1,9 @@
 <?php
 
-$pass = "password";
-$user= "username";
-$host = "host";
-$name= "bnname";
+$pass = "password"; // change the password
+$user= "username";  // change the username 
+$host = "localhost";
+$name= "mysql";     // default database
 
 $pdo = new PDO("mysql:host=".$host.";dbname=".$name,$user,$pass);
 $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
