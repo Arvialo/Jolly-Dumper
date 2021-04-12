@@ -5,6 +5,7 @@
 #### But do you know Jolly Dumper, the famous database dumper ? 
 
 ```This tool will be useful for pentesters or people wanting to learn mysql basics.```
+
 ```This enables you to discover some databases.```
 
 On my opinion, the 3 main perks are:
