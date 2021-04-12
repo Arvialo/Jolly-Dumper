@@ -6,7 +6,7 @@
 
 ```This tool will be useful for pentesters or people wanting to learn mysql basics. This enables you to discover some databases.```
 
-```For example, you can use it as part of a ctf```
+```For example, you can use it as part of a ctf. ```
 
 On my opinion, the 3 main perks are:
 1. loading speed (the requests are made one after the other)
