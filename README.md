@@ -13,7 +13,13 @@ On my opinion, the 3 main perks are:
 2. the fact that it is well organized and structured --> better understanding
 3. ease of use
 
+<img src="jd1.png">
+<img src="jd2.png">
+<img src="jd3.png">
+
+
 ###### We hope that you enjoyed our project !
 ###### Don't hesitate to put a small star if you liked it :)
+
 
 Made by [LeTamanoir](https://github.com/LeTamanoir "LeTamanoir") and [me](https://github.com/Arvialo "Arvialo")
